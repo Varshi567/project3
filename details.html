@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+        body {
+            background-color: #f2f2f2;
+            font-family: 'Playfair Display', serif;
+            margin: 0;
+            padding: 0;
+        }
+        p {
+        font-size: 16px; /* Adjust the font size as needed */
+        line-height: 1.5; /* Adjust the line height for better readability */
+        margin-bottom: 10px; /* Add some bottom margin for spacing */
+        color: #d11720 !important; /* Set the color for paragraphs */
+    }
+
+
+        #details {
+            border: 1px solid #0f5c28;
+            overflow-y: scroll;
+            height: 90vh; 
+            margin: 0 auto;
+            width: 60%; 
+            padding: 20px; 
+            background-color: #83b3bb;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.5);
+        }
+
+        #s1 {
+            text-align: center;
+            color: #8a46c6;
+        }
+
+        h3, p {
+            margin: 10px 0;
+        }
+
+        h3 {
+            color: #0f5c28;
+        }
+
+        p {
+            color: #333;
+        }
+
+        img {
+            display: block;
+            margin: 0 auto;
+            border-radius: 5px;
+            box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.3);
+        }
+
+        a {
+            color: #8a46c6;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .links-container {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="details"></div>
+    <script>
+          
+        window.onload = function() {
+            var Data = JSON.parse(localStorage.getItem("Data"));
+            if (Data) {
+                var d=document.getElementById('details')
+                
+                var h3=document.createElement('h1')
+                d.appendChild(h3)
+                h3.innerText=`${Data.title}`
+                h3.setAttribute('id','s1')
+                var image = document.createElement('img');
+                image.setAttribute('src', Data.image);
+                image.setAttribute('width', '400');
+                image.setAttribute('height', '400');
+                d.appendChild(image);
+                var h3cre=document.createElement('h3')
+                d.appendChild(h3cre)
+                h3cre.innerText=`Cast:`;
+                var pcre=document.createElement('p')
+                d.appendChild(pcre)
+                pcre.innerText=`${Data.cast}`
+                var h3cre1=document.createElement('h3')
+                d.appendChild(h3cre1)
+                h3cre1.innerText=`Genres:`;
+                var pcre=document.createElement('p')
+                d.appendChild(pcre)
+                pcre.innerText=`${Data.genres}`
+                var h3cre=document.createElement('h3')
+                d.appendChild(h3cre)
+                h3cre.innerText="Overview:";
+                var pcre1=document.createElement('p')
+                d.appendChild(pcre1)
+                pcre1.innerText=`${Data.overview}`
+                var h3cre4=document.createElement('h3')
+                d.appendChild(h3cre4)
+                h3cre4.innerText=`Seasons: ${Data.seasons}`
+                var services = Data.services;
+                var servicesText = "Services: ";
+                for (var i = 0; i < services.length; i++) {
+                    servicesText += services[i];
+                    if (i !== services.length - 1) {
+                        servicesText += ", ";
+                    }
+                }
+                var servicesElement = document.createElement('p');
+                servicesElement.innerText = servicesText;
+                d.appendChild(servicesElement);
+                var h3cre5=document.createElement('h3')
+                d.appendChild(h3cre5)
+                h3cre5.innerText=`Links:`
+                var links = Data.links;
+                var linksContainer = document.createElement('div');
+                linksContainer.className = 'links-container';
+                d.appendChild(linksContainer);
+                for (var linkName in links) {
+                    if (links.hasOwnProperty(linkName)) {
+                        var link = links[linkName];
+                        var linkElement = document.createElement('a');
+                        linkElement.setAttribute('href', link);
+                        linkElement.setAttribute('target', '_blank'); // Open link in a new tab
+                        linkElement.innerText = linkName; // Use link name as the text
+                        linksContainer.appendChild(linkElement);
+                        linksContainer.appendChild(document.createElement('br'));
+                    }
+                }
+
+            }
+        }
+    </script>
+</body>
+</html>

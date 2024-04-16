@@ -1,0 +1,278 @@
+{
+    "series": [
+      {
+        "title": "Breaking Bad",
+        "cast": "Bryan Cranston, Aaron Paul, Anna Gunn",
+        "genres": "Crime, Drama",
+        "overview": "A high school chemistry teacher turned methamphetamine manufacturer partners with a former student to create and sell the purest methamphetamine.",
+        "seasons": 5,
+        "services": ["Netflix", "Amazon Prime Video"],
+        "links": {
+          "IMDb": "https://www.imdb.com/title/tt0903747/",
+          "Official Site": "https://www.amc.com/shows/breaking-bad"
+        },
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIKDpDov7nkCbt1OhHoA7_M_NRZbLG83mYciQe5Hr05w&s"
+      },
+      {
+        "title": "Stranger Things",
+        "cast": "Millie Bobby Brown, Finn Wolfhard, Winona Ryder",
+        "genres": "Drama, Fantasy, Horror",
+        "overview": "When a young boy disappears, his mother, a police chief, and his friends must confront terrifying supernatural forces to get him back.",
+        "seasons": 4,
+        "services": ["Netflix"],
+        "links": {
+          "IMDb": "https://www.imdb.com/title/tt4574334/",
+          "Official Site": "https://www.netflix.com/title/80057281"
+        },
+        "image":"https://screencraft.org/wp-content/uploads/2017/10/stranger.jpg"
+      },
+      {
+        "title": "Game of Thrones",
+        "cast": "Emilia Clarke, Kit Harington, Peter Dinklage",
+        "genres": "Action, Adventure, Drama",
+        "overview": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.",
+        "seasons": 8,
+        "services": ["HBO", "HBO Max"],
+        "links": {
+          "IMDb": "https://www.imdb.com/title/tt0944947/",
+          "Official Site": "https://www.hbo.com/game-of-thrones"
+        },
+        "image":"https://rukminim2.flixcart.com/image/850/1000/jzeg6fk0/tv-series/a/h/k/dvd-1-to-7-burndatadvd-english-game-of-thrones-all-seasons-1-to-original-imafj6snw4wxnq9c.jpeg?q=90&crop=false"
+      },
+      {
+        "title": "The Office",
+        "cast": "Steve Carell, Rainn Wilson, John Krasinski",
+        "genres": "Comedy",
+        "overview": "A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, and tedium.",
+        "seasons": 9,
+        "services": ["Netflix"],
+        "links": {
+          "IMDb": "https://www.imdb.com/title/tt0386676/",
+          "Official Site": "https://www.nbc.com/the-office"
+        },
+        "image":"https://img.etimg.com/thumb/width-640,height-480,imgsize-25352,resizemode-75,msid-105192077/news/international/us/will-the-new-the-office-series-be-a-reboot-heres-what-we-know-so-far.jpg"
+      },
+      {
+        "title": "Friends",
+        "cast": "Jennifer Aniston, Courteney Cox, Lisa Kudrow",
+        "genres": "Comedy, Romance",
+        "overview": "Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.",
+        "seasons": 10,
+        "services": ["Netflix", "HBO Max"],
+        "links": {
+          "IMDb": "https://www.imdb.com/title/tt0108778/",
+          "Official Site": "https://www.warnerbros.com/tv/friends"
+        },
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT45yVjDDMC_zBjXRk0dBJQjLAthxsjpo0z2NbBF0YsiQ&s"
+      },
+      {
+        "title": "The Crown",
+        "cast": "Olivia Colman, Tobias Menzies, Helena Bonham Carter",
+        "genres": "Biography, Drama, History",
+        "overview": "Follows the political rivalries and romance of Queen Elizabeth II's reign and the events that shaped the second half of the twentieth century.",
+        "seasons": 4,
+        "services": ["Netflix"],
+        "links": {
+          "IMDb": "https://www.imdb.com/title/tt4786824/",
+          "Official Site": "https://www.netflix.com/title/80025678"
+        },
+        "image":"https://m.media-amazon.com/images/I/71f97nf-u9L._AC_UF1000,1000_QL80_.jpg"
+      },
+      {
+        "title": "Sherlock",
+        "cast": "Benedict Cumberbatch, Martin Freeman, Una Stubbs",
+        "genres": "Crime, Drama, Mystery",
+        "overview": "A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.",
+        "seasons": 4,
+        "services": ["Netflix"],
+        "links": {
+          "IMDb": "https://www.imdb.com/title/tt1475582/",
+          "Official Site": "https://www.bbc.co.uk/programmes/b018ttws"
+        },
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmXoYCwwMsBmpDyoGmTFvtRWheMSWdo1TsFQ&s"
+      },
+      {
+        "title": "The Mandalorian",
+        "cast": "Pedro Pascal, Gina Carano, Giancarlo Esposito",
+        "genres": "Action, Adventure, Fantasy",
+        "overview": "The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic.",
+        "seasons": 2,
+        "services": ["Disney+"],
+        "links": {
+          "IMDb": "https://www.imdb.com/title/tt8111088/",
+          "Official Site": "https://www.starwars.com/series/the-mandalorian"
+        },
+        "image":"https://upload.wikimedia.org/wikipedia/en/0/04/The_Mandalorian_season_1_poster.jpg"
+      },
+      {
+        "title": "The Simpsons",
+        "cast": "Dan Castellaneta, Nancy Cartwright, Harry Shearer",
+        "genres": "Animation, Comedy",
+        "overview": "The satiric adventures of a working-class family in the misfit city of Springfield.",
+        "seasons": 32,
+        "services": ["Disney+"],
+        "links": {
+          "IMDb": "https://www.imdb.com/title/tt0096697/",
+          "Official Site": "https://www.thesimpsons.com/"
+        },
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLYJ0liMMm0W3kKzcifqotNl9oagSNnJyLVQ&s"
+      },
+      {
+        "title": "Westworld",
+        "cast": "Evan Rachel Wood, Jeffrey Wright, Ed Harris",
+        "genres": "Drama, Mystery, Sci-Fi",
+        "overview": "A dark odyssey about the dawn of artificial consciousness and the evolution of sin.",
+        "seasons": 3,
+        "services": ["HBO", "HBO Max"],
+        "links": {
+          "IMDb": "https://www.imdb.com/title/tt0475784/",
+          "Official Site": "https://www.hbo.com/westworld"
+        },
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKrFbAlRQB0zRyVuQ8YJkqn2HT_XNBEB3nrA&s"
+      },
+      {
+        "title": "Black Mirror",
+        "cast": "Daniel Lapaine, Hannah John-Kamen, Michaela Coel",
+        "genres": "Drama, Sci-Fi, Thriller",
+        "overview": "An anthology series exploring a twisted, high-tech multiverse where humanity's greatest innovations and darkest instincts collide.",
+        "seasons": 5,
+        "services": ["Netflix"],
+        "links": {
+          "IMDb": "https://www.imdb.com/title/tt2085059/",
+          "Official Site": "https://www.netflix.com/title/70264888"
+        },
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqUYzTgETfHSTXCxXbAbyzMWxfLJDKl4-R1A&s"
+      },
+      {
+        "title": "The Witcher",
+        "cast": "Henry Cavill, Freya Allan, Anya Chalotra",
+        "genres": "Action, Adventure, Drama",
+        "overview": "Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts.",
+        "seasons": 2,
+        "services": ["Netflix"],
+        "links": {
+          "IMDb": "https://www.imdb.com/title/tt5180504/",
+          "Official Site": "https://www.netflix.com/title/80189685"
+        },
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4sEfgmWrvdPaZCjNuOiaKtr2qjVqegMj-cQ&s"
+      },
+      {
+        "title": "House of Cards",
+        "cast": "Kevin Spacey, Robin Wright, Michael Kelly",
+        "genres": "Drama",
+        "overview": "A Congressman works with his equally conniving wife to exact revenge on the people who betrayed him.",
+        "seasons": 6,
+        "services": ["Netflix"],
+        "links": {
+          "IMDb": "https://www.imdb.com/title/tt1856010/",
+          "Official Site": "https://www.netflix.com/title/70178217"
+        },
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0nHclONH8tei4Bl3qeqx2y75rD3riXjJpEw&s"
+      },
+      {
+        "title": "Money Heist",
+        "cast": "Úrsula Corberó, Álvaro Morte, Itziar Ituño",
+        "genres": "Action, Crime, Drama",
+        "overview": "A group of unique robbers assault the Factory of Moneda and Timbre to carry out the most perfect robbery in the history of Spain and take home 2.4 billion euros.",
+        "seasons": 5,
+        "services": ["Netflix"],
+        "links": {
+          "IMDb": "https://www.imdb.com/title/tt6468322/",
+          "Official Site": "https://www.netflix.com/title/80192098"
+        },
+        "image":"https://i0.wp.com/thsindex.org/wp-content/uploads/2023/04/Money-Heist-was-first-released-on-Antena-3-in-Spain-in-2017-Netflix.jpg?fit=1920%2C2560&ssl=1"
+      },
+      {
+        "title": "The X-Files",
+        "cast": "David Duchovny, Gillian Anderson, Mitch Pileggi",
+        "genres": "Drama, Mystery, Sci-Fi",
+        "overview": "Two FBI agents, Fox Mulder and Dana Scully, work in an unassigned detail of the bureau called the X-Files investigating cases dealing with unexplained paranormal phenomena.",
+        "seasons": 11,
+        "services": ["Hulu", "Amazon Prime Video"],
+        "links": {
+          "IMDb": "https://www.imdb.com/title/tt0106179/",
+          "Official Site": "https://www.fox.com/the-x-files/"
+        },
+        "image":"https://m.media-amazon.com/images/I/91uXiWyCAAL._AC_UF1000,1000_QL80_.jpg"
+      },
+      {
+        "title": "Dexter",
+        "cast": "Michael C. Hall, Jennifer Carpenter, David Zayas",
+        "genres": "Crime, Drama, Mystery",
+        "overview": "By day, mild-mannered Dexter is a blood-spatter analyst for the Miami police. But at night, he is a serial killer who only targets other murderers.",
+        "seasons": 8,
+        "services": ["Showtime", "Amazon Prime Video"],
+        "links": {
+          "IMDb": "https://www.imdb.com/title/tt0773262/",
+          "Official Site": "https://www.sho.com/dexter"
+        },
+        "image":"https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Dexter_season_6_DVD.jpg/220px-Dexter_season_6_DVD.jpg"
+      },
+      {
+        "title": "The Walking Dead",
+        "cast": "Andrew Lincoln, Norman Reedus, Melissa McBride",
+        "genres": "Drama, Horror, Thriller",
+        "overview": "Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins and must lead a group of survivors to stay alive.",
+        "seasons": 11,
+        "services": ["AMC", "Netflix"],
+        "links": {
+          "IMDb": "https://www.imdb.com/title/tt1520211/",
+          "Official Site": "https://www.amc.com/shows/the-walking-dead"
+        },
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu2o43z_nK17EZI5UYITxf57XDHuncaj7BbA&s"
+      },
+      {
+        "title": "Mindhunter",
+        "cast": "Jonathan Groff, Holt McCallany, Anna Torv",
+        "genres": "Crime, Drama, Thriller",
+        "overview": "Set in the late 1970s, two FBI agents are tasked with interviewing serial killers to solve open cases.",
+        "seasons": 2,
+        "services": ["Netflix"],
+        "links": {
+          "IMDb": "https://www.imdb.com/title/tt5290382/",
+          "Official Site": "https://www.netflix.com/title/80114855"
+        },
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9qz8BcOmgof0TzexkzoJy29HPmKU9sWv2Jw&s"
+      },
+      {
+        "title": "Narcos",
+        "cast": "Wagner Moura, Boyd Holbrook, Pedro Pascal",
+        "genres": "Biography, Crime, Drama",
+        "overview": "A chronicled look at the criminal exploits of Colombian drug lord Pablo Escobar, as well as the many other drug kingpins who plagued the country through the years.",
+        "seasons": 3,
+        "services": ["Netflix"],
+        "links": {
+          "IMDb": "https://www.imdb.com/title/tt2707408/",
+          "Official Site": "https://www.netflix.com/title/80025172"
+        },
+        "image":"https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p11993088_b_v8_aa.jpg"
+      },
+      {
+        "title": "The Handmaid's Tale",
+        "cast": "Elisabeth Moss, Yvonne Strahovski, Joseph Fiennes",
+        "genres": "Drama, Sci-Fi, Thriller",
+        "overview": "Set in a dystopian future, a woman is forced to live as a concubine under a fundamentalist theocratic dictatorship.",
+        "seasons": 4,
+        "services": ["Hulu"],
+        "links": {
+          "IMDb": "https://www.imdb.com/title/tt5834204/",
+          "Official Site": "https://www.hulu.com/series/the-handmaids-tale-565d1db8-20bd-44f6-97c2-331f8972b4e5"
+        },
+        "image":"https://m.media-amazon.com/images/I/710n0UUdaXL._AC_UF1000,1000_QL80_.jpg"
+      },
+      {
+        "title": "Peaky Blinders",
+        "cast": "Cillian Murphy, Paul Anderson, Helen McCrory",
+        "genres": "Crime, Drama",
+        "overview": "A gangster family epic set in 1919 Birmingham, England, and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.",
+        "seasons": 6,
+        "services": ["Netflix", "Amazon Prime Video"],
+        "links": {
+          "IMDb": "https://www.imdb.com/title/tt2442560/",
+          "Official Site": "https://www.bbc.co.uk/programmes/p02f9pn0"
+        },
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1f0gKpSI4V9j57c0nFS69f8VJO0cTMDNNQg&s"
+      }
+    ]
+  }
+  
